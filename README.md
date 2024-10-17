@@ -94,7 +94,7 @@ g++ -o Inheritance Student.cpp Course.cpp main.cpp
 ./Inheritance
 ```
 
-![Flag](https://upload.wikedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/255px-Flag_of_Greece.svg.png)
+![Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/255px-Flag_of_Greece.svg.png)
 
 # Σχέσεις Κλάσεων και Υπερφόρτωση Τελεστών σε C++
 
